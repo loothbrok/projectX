@@ -1,0 +1,142 @@
+header{
+    margin: auto;
+    color: rgb(240, 193, 7);
+    font-size: 30px;
+}
+#logo{
+    margin-left: 200px;
+    
+}
+nav{
+    display: flex;
+    margin-left: 180px;
+    padding-right: 30px;
+    
+}
+ul{
+    margin: auto;
+    
+    
+}
+ul li{
+    display: inline-block;
+    padding-right: 60px;
+    
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+ul li a:hover{
+    color: orange;
+}
+button{
+    background-color: rgb(240, 193, 7);
+	border: 2px solid rgb(240, 193, 7);
+}
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    font-style: oblique;
+    color: rgb(253, 248, 248);
+    font-size: 50px;
+    margin-bottom: 60px;
+}
+h2{
+
+    font-family: Arial;
+    font-style: normal;
+    font-size: 18px;
+    color: rgb(240, 193, 7);
+}
+    
+
+#headline1{
+   margin-left: 60px;
+}
+.container1{
+
+    background-color: rgba(0, 0, 0, 0.583);
+    border:2px solid;
+    max-width: 250px;
+    margin: auto;
+    border-bottom-color: rgb(240, 193, 7);
+}
+#headline2{
+    margin-left: 60px;
+}
+.container2{
+
+    background-color: rgba(0, 0, 0, 0.583);
+    border:2px solid;
+    max-width: 250px;
+    margin-top: -170px;
+    margin-left: 550px;
+    border-bottom-color: rgb(240, 193, 7);
+}
+
+#headline3{
+    margin-left: 60px;
+}
+.container3{
+
+    background-color: rgba(0, 0, 0, 0.583);
+    border:2px solid;
+    max-width: 250px;
+    margin-top: -170px;
+    margin-left: 1100px;
+    border-bottom-color: rgb(240, 193, 7);
+}
+
+#headline4{
+    margin-left: 60px;
+}
+.container4{
+
+    background-color: rgba(0, 0, 0, 0.583);
+    border:2px solid;
+    max-width: 250px;
+    margin-top: 90px;
+    margin-left: 550px;
+    border-bottom-color: rgb(240, 193, 7);
+}
+
+#headline5{
+    margin-left: 60px;
+}
+.container5{
+
+    background-color: rgba(0, 0, 0, 0.583);
+    border:2px solid;
+    max-width: 250px;
+    margin-top: -175px;
+    margin-left: 1100px;
+    border-bottom-color: rgb(240, 193, 7);
+}
+#kod{
+    
+    margin-left: 45%;
+}
+#kam{
+    margin-left: 45%;
+}
+#akt{
+    margin-left: 45%;
+}
+#dev{
+    margin-left: 45%;
+}
+#brand{
+    margin-left: 45%;
+}
+
+p{
+    text-align: center;
+    color: white;
+}
+.material-icons{
+
+    border-radius: 50%;
+    background-color: rgb(240, 193, 7);
+}

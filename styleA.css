@@ -1,0 +1,74 @@
+header{
+    margin: auto;
+    color: rgb(240, 193, 7);
+    font-size: 30px;
+}
+#logo{
+    margin-left: 200px;
+    
+}
+#more {
+    display: none;
+}
+#myBtn{
+    font-size: 25px;
+    border-radius: 9%;
+}
+
+
+
+h1{
+    text-align: center;
+    margin-top: 100px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 70px;
+    color: azure;
+
+
+}
+nav{
+    display: flex;
+    margin-left: 180px;
+    padding-right: 30px;
+    
+}
+ul{
+    margin: auto;
+    
+    
+}
+ul li{
+    display: inline-block;
+    padding-right: 60px;
+    
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+ul li a:hover{
+    color: rgb(240, 193, 7);
+}
+button{
+    background-color: rgb(240, 193, 7);
+	border: 2px solid rgb(240, 193, 7);
+}
+.material-icons{
+    
+    background-color: rgb(240, 193, 7);
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+
+
+
+
+p{
+    color: rgb(234, 228, 228);
+    font-size: 40px;
+   
+    
+    
+}
